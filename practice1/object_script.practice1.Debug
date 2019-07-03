@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\adddialog.o
+./debug\removedialog.o
+./debug\phonebook.o
+./debug\widget.o
+./debug\moc_mainwindow.o
+./debug\moc_adddialog.o
+./debug\moc_removedialog.o
+./debug\moc_widget.o
+);
